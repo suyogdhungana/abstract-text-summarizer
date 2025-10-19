@@ -25,14 +25,14 @@ Both datasets are loaded via the 🤗 `datasets` library and filtered to reduce 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/text-summarization-mini-project.git
+git clone https://github.com/suyogdhungana/abstract-text-summarizer.git
 ```
 2. Navigate into the project directory
 ```bash
-cd text-summarization-mini-project
+cd abstract-text-summarizer
 ```
 3. Run the notebook in Jupyter or Colab
 ```bash
-jupyter notebook text_summarization.ipynb
+jupyter notebook abstractTextSummarization.ipynb
 ```
 ---
